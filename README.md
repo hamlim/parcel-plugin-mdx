@@ -1,3 +1,7 @@
+⚠️⚠️ This work has been merged into the MDX repo, to use MDX with Parcel, check out their plugin here: https://mdxjs.com/getting-started/parcel ⚠️⚠️
+
+
+
 # MDX Parcel Plugin
 
 This is an experimental parcel plugin for [MDX Support](https://github.com/mdx-js/mdx).
